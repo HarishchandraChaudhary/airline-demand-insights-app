@@ -50,6 +50,9 @@ airline_demand_app/
 Setup and Running Instructions
 Follow these steps to get the application running on your local machine.
 
+-- You can create your own api ke and used .
+set GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE
+
 Prerequisites
 Python 3.7+
 
