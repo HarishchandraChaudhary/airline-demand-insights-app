@@ -60,7 +60,7 @@ git (for cloning the repository)
 1. Clone the Repository
 Open your terminal or command prompt and run:
 
-git clone https://github.com/YourUsername/airline-demand-insights-app.git
+git clone https://github.com/HarishchandraChaudhary/airline-demand-insights-app
 cd airline-demand-insights-app
 
 (Important: Replace YourUsername with your actual GitHub username and airline-demand-insights-app with your repository's exact name.)
